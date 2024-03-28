@@ -13,7 +13,7 @@ Formado em Engenharia de Controle e Automação e Mestrando em Ciências da comp
 ![ESP32](https://img.shields.io/badge/CSS3-FFF?style=for-the-badge&logo=css3&logoColor=264CE4)
 ![Microcontroladores PIC](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
 ![LoRaWAN](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
-![NBIoT](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
+![NBIoT](https://img.shields.io/badge/C%2B%2B-FFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
 
 ## Github stats
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeMell0&theme=transparent&bg_color=FFF&border_color=993399&show_icons=true&icon_color=993399&title_color=993399&text_color=000)
