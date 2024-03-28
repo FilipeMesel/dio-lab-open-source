@@ -8,15 +8,11 @@ Formado em Engenharia de Controle e Automação e Mestrando em Ciências da comp
 ![Java](https://img.shields.io/badge/Java-FFF?style=for-the-badge&logo=java)
 ![Python](https://img.shields.io/badge/Python-FFF?style=for-the-badge&logo=python)
 ![C++](https://img.shields.io/badge/C%2B%2B-FFF?style=for-the-badge&logo=c%2B%2B&logoColor=00599C)
-![FreeRTOS]
-![STM32]
-![ESP32]
-![Microcontroladores PIC]
-![LoRaWAN]
-![NBIoT]
+
+FreeRTOS| STM32| ESP32| Microcontroladores PIC| LoRaWAN| NBIoT
 
 ## Github stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeMell0&theme=transparent&bg_color=FFF&border_color=993399&show_icons=true&icon_color=993399&title_color=993399&text_color=000)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=FilipeMesel&theme=transparent&bg_color=FFF&border_color=993399&show_icons=true&icon_color=993399&title_color=993399&text_color=000)
 
 
 ## Conecte-se comigo
